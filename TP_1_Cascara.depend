@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1523506093 source:c:\users\paula revainera\desktop\nueva carpeta\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523506093 c:\users\paula revainera\desktop\nueva carpeta\tp_1_cascara\funciones.h
+
+1523656136 source:c:\users\paula revainera\desktop\utn\tp_laboratorio_1-master\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523656136 c:\users\paula revainera\desktop\utn\tp_laboratorio_1-master\funciones.h
+
+1523656436 source:c:\users\paula revainera\desktop\trabajo practico 1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523656136 c:\users\paula revainera\desktop\trabajo practico 1\tp_1_cascara\funciones.h
+
+1554501480 source:c:\users\paula revainera\desktop\paula\utn\trabajo practico 1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554497839 c:\users\paula revainera\desktop\paula\utn\trabajo practico 1\tp_1_cascara\funciones.h
+
